@@ -9,6 +9,5 @@ Encontrar tutores para reforzamiento academico
 <li>Responsivo</li>
 <li>Escalable</li>
 <h5>Integreantes</h5>
-Frontend: Mathias y Rodrigo ✏️<br>
-Backend: Nicole, Lujan, Elias 🧐 <br>
-PM: Jazmin 🤠 <br>
+Desarrollo: Lujan, Elias y Jaz ✏️<br>
+PM: Jazmin tambien🤠 <br>
