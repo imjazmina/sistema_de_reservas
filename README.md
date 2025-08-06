@@ -1,9 +1,9 @@
-## Sistema de reserva de mesas 👩‍💻👨‍💻💫
+## Sistema de reserva de tutorias 👩‍💻👨‍💻💫
 ### Problematica
-Evitar conflictos a la hora de trabajar prescencialmete
+Encontrar tutores para reforzamiento academico
 <h4> Requisitos funcionales </h4>
-<li>Registrar las reservas, fecha, hora, ubicacion, integrantes del grupo</li>
-<li>Mostrar las mesas reservadas fecha, hora, ubicacion, y persona que reservo</li>
+<li>Registrar las reservas, fecha, hora y materia</li>
+<li>Mostrar las reservas con los campos seleccionados</li>
 <li>Editar/eliminar reservas</li>
 <h5> Requisitos no funcionales </h5>
 <li>Responsivo</li>
